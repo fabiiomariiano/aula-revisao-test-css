@@ -1,0 +1,41 @@
+/* Classe */
+.fonte-diferente {
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.cor-de-fundo-rosa {
+  background-color: pink;
+}
+
+
+/* ID */
+#nome-professor {
+  text-decoration: underline;
+}
+
+#video-suspiro {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  z-index: 1
+}
+
+#imagem-petshop {
+  height: 100px;
+  width: 100px;
+}
+
+/* TAG */
+p {
+  margin-left: 500px;
+}
+
+body {
+  z-index: 2;
+  position: absolute;
+  
+}

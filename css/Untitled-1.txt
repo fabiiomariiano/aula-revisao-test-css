@@ -1,0 +1,13 @@
+Formas de colocar CSS no HTML:
+
+  Direto na tag
+  Criar css a parte e associar com a tag desejada
+    definir estilo dentro do HTML
+    definir estilo fora do HTML - arquivo separado
+
+
+
+links:
+https://pt.semrush.com/blog/tags-html/
+https://guilhermemuller.com.br/ead/html-css-na-pratica/principais-propriedades-texto-css
+https://www.w3schools.com/cssref/pr_padding.php
